@@ -17,14 +17,14 @@ It secures TurboVNC connection using SSH port forwarding.
 
 - SSH only:
 ```python3
-!pip install git+https://github.com/demotomohiro/remocolab.git
+!pip install git+https://github.com/dghere3/remocolab.git
 import remocolab
 remocolab.setupSSHD()
 ```
 
 - SSH and TurboVNC:
 ```python3
-!pip install git+https://github.com/demotomohiro/remocolab.git
+!pip install git+https://github.com/dghere3/remocolab.git
 import remocolab
 remocolab.setupVNC()
 ```
@@ -102,7 +102,7 @@ remocolab in kaggle branch works on [Kaggle](https://www.kaggle.com/).
 
 - SSH only:
 ```python3
-!pip install git+https://github.com/demotomohiro/remocolab.git@kaggle
+!pip install git+https://github.com/dghere3/remocolab.git@kaggle
 import remocolab
 remocolab.setupSSHD()
 ```
