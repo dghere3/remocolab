@@ -109,7 +109,7 @@ remocolab.setupSSHD()
 
 - SSH and TurboVNC:
 ```python3
-!pip install git+https://github.com/demotomohiro/remocolab.git@kaggle
+!pip install git+https://github.com/dghere3/remocolab.git@kaggle
 import remocolab
 remocolab.setupVNC()
 ```
