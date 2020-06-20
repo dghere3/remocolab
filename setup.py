@@ -5,5 +5,5 @@ setup(
     version = "0.1",
     py_modules = ['remocolab'],
     url = "https://github.com/demotomohiro/remocolab",
-    author = "demotomohiro",
+    author = "dghere3",
 )
